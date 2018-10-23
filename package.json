@@ -1,0 +1,29 @@
+{
+  "name": "node-xlsx",
+  "version": "1.0.0",
+  "description": "Demo on using xlsx with promise",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mclark610/node-xlsx.git"
+  },
+  "keywords": [
+    "node",
+    "xlsx",
+    "config"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mclark610/node-xlsx/issues"
+  },
+  "homepage": "https://github.com/mclark610/node-xlsx#readme",
+  "dependencies": {
+    "config": "^2.0.1",
+    "winston": "^3.1.0",
+    "xlsx": "^0.14.0"
+  }
+}
