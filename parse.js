@@ -6,8 +6,6 @@ const XLSX   = require('xlsx');
 
 const dataConfig = config.get('data');
 
-//let file_name = dataConfig.location + "/DSXPushRptPowerBI-TestAccountFoodLionGA-014243May222018.xlsx";
-
 let file_name = dataConfig.location + "/airport_data.xlsx";
 
 // ************************* Promises Promises ********************************
