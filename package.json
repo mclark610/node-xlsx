@@ -24,6 +24,6 @@
   "dependencies": {
     "config": "^2.0.1",
     "winston": "^3.1.0",
-    "xlsx": "^0.14.0"
+    "xlsx": "^0.17.0"
   }
 }
